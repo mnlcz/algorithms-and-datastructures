@@ -2,7 +2,7 @@
 // Created by MnLCz on 1/3/2021.
 //
 
-#include "Stack.h"
+#include "Stack.hpp"
 #include <iostream>
 
 using std::cout, std::endl;
